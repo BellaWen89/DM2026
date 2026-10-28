@@ -43,3 +43,18 @@
 白板上的內容可以在不同的活動中使用，但是學生自己的筆記本通常只在自己的活動中使用。
 在 Python 中，全域變數可以在函式外面建立，並在函式中使用；區域變數則是在函式內建立，通常只能在該函式內使用。
 
+## 4. The Greater - Than Relation
+<img width="2036" height="782" alt="image" src="https://github.com/user-attachments/assets/6a63a029-e628-4493-b72c-7e7dfce2e741" />
+
+
+## 5. Cartesian Coordinates Concept
+<img width="2160" height="745" alt="image" src="https://github.com/user-attachments/assets/e94fbc13-5217-4bfb-8489-dbdcdf9f7bac" />
+
+
+
+
+
+
+
+
+
